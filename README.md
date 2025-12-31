@@ -96,4 +96,23 @@ These metrics were used to evaluate model performance on unseen test data.
 ---
 
 ## Project Structure
+crypto-volatility-prediction/
+│
+├── data/
+│ └── crypto_data.csv
+│
+├── notebooks/
+│ └── Crypto_Volatility_Prediction.ipynb
+│
+├── app.py # Streamlit deployment file
+├── model.pkl # Trained ML model
+│
+├── EDA_Report.pdf
+├── HLD.pdf
+├── LLD.pdf
+├── Pipeline_Architecture.pdf
+├── Final_Report.pdf
+│
+└── README.md
+
 
