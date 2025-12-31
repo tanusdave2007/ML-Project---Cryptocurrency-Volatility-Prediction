@@ -1,0 +1,29 @@
+
+---
+
+## How to Run the Project
+1. Upload dataset to Google Colab
+2. Open the notebook
+3. Run cells sequentially
+4. Evaluate model results
+5. (Optional) Deploy using Streamlit
+
+---
+
+## Results & Insights
+- The model successfully captures volatility trends
+- Rolling volatility and technical indicators significantly improve prediction accuracy
+- Random Forest performs well for nonlinear financial data
+
+---
+
+## Conclusion
+This project demonstrates how machine learning can be applied to **financial time-series data** to predict cryptocurrency volatility.  
+It provides a solid foundation for further enhancements such as deep learning or real-time prediction systems.
+
+---
+
+## Author
+**Tanushree Dave**
+
+Machine Learning Project – PwSkills
